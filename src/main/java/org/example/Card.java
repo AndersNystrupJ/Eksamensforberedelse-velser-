@@ -21,8 +21,6 @@ public class Card {
     }
 
 
-    public String beats(){
-    }
 
 
 }
